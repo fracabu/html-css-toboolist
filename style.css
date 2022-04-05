@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.testo-header{
+    display: inline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+
+}
+main{
+    background-color: #F7F8F9;
+}
+
+.container{
+    width: 900px;
+    height: 900px;
+    background-color: #FFFFFF;
+    margin: auto;
+}
+
+.pulsante1{
+    display: inline;
+}
